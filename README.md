@@ -1,54 +1,64 @@
 # Finnex
 
-> A command-line personal expense tracker built to master software engineering fundamentals through iterative development.
+> Understand where your money goes by recording daily expenses, organizing spending, and making smarter financial decisions.
 
 ---
 
-## Overview
+## About
 
-Finnex is a personal expense tracking application developed as part of my engineering learning journey.
+Finnex is a command-line personal expense tracker built as a software engineering learning project.
 
-Rather than focusing only on writing Python code, this project emphasizes how real software is designed—from understanding user problems and planning system architecture to implementing clean, maintainable solutions.
+The goal is not only to build an expense tracker, but to learn how real software is designed—from understanding a problem and planning an architecture to implementing clean, maintainable code.
 
-This project follows an iterative development approach, where each version introduces new improvements while keeping the codebase modular and easy to extend.
-
----
-
-## Objectives
-
-- Develop engineering-first thinking before coding
-- Practice designing software systems from scratch
-- Learn clean project organization
-- Build maintainable Python applications
-- Improve problem-solving and logical reasoning
-- Prepare for larger software and machine learning projects
+Every feature is built through iterative development, with each version improving the previous one while keeping the project modular and scalable.
 
 ---
 
-## Planned Features (v1.0)
+## Why Finnex?
 
-- Add expenses
-- View all expenses
-- Search expenses
-- Edit expenses
-- Delete expenses
-- Category management
-- Monthly summaries
-- Data persistence
-- Input validation
+Many people spend money every day without having a clear understanding of where it goes.
+
+Finnex helps users record daily expenses, organize them into meaningful categories, and gain simple insights into their spending habits. The objective is to support better financial awareness and encourage more informed financial decisions.
 
 ---
 
-## Future Roadmap
+## Project Goals
+
+- Learn software engineering through project-based development
+- Practice system thinking before writing code
+- Design modular and maintainable applications
+- Improve problem-solving and architectural thinking
+- Build software iteratively instead of all at once
+
+---
+
+## Planned Features
 
 ### Version 1.0
-CLI-based expense tracker.
+
+- Add expenses
+- View expenses
+- Edit expenses
+- Delete expenses
+- Categorize expenses
+- Search expenses
+- Spending summaries
+- Persistent local storage
+- Input validation
 
 ### Version 2.0
-Web interface using Flask.
 
-### Version 3.0
-Analytics dashboard and data visualization.
+- Flask web interface
+- Improved user experience
+- Dashboard
+
+### Future Ideas
+
+- Charts and visual analytics
+- Budget planning
+- Savings goals
+- CSV export
+- Multiple user profiles
 
 ---
 
@@ -64,5 +74,30 @@ finnex/
 └── LICENSE
 ```
 
+---
 
+## Engineering Philosophy
 
+This project follows an engineering-first approach.
+
+Instead of jumping directly into implementation, each feature begins with understanding the problem, designing the solution, and thinking through system architecture before writing code.
+
+The focus is on learning how professional software is planned, built, and improved over time.
+
+---
+
+## Development Roadmap
+
+| Day | Focus | Status |
+|------|-------------------------------|--------|
+| 1 | Problem Definition & Planning | 🚧 |
+| 2 | System Design | ⏳ |
+| 3 | Architecture & Project Structure | ⏳ |
+| 4 | Implementation | ⏳ |
+| 5 | Testing & Refactoring | ⏳ |
+
+---
+
+## Current Status
+
+🚧 Currently in the planning and system design phase.
